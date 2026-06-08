@@ -1,0 +1,6 @@
+__pycache__
+.pytest_cache
+.kiro
+__pycache__/*
+.kiro/*
+.pytest_cache/*
